@@ -11,6 +11,6 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts",
-    "styles/auth.styles.js"
+    "styles/auth.styles.ts"
   ]
 }
