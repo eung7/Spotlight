@@ -81,6 +81,6 @@ export const getFeedPosts = query({
       })
     );
 
-    return posts;
+    return postsWithInfo;
   },
 });
